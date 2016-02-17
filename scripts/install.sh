@@ -30,3 +30,4 @@ if [ ! -f "$HOME/.zprofile" ]; then
 fi
 
 apm install nuclide
+apm install docblockr

@@ -14,6 +14,8 @@ set expandtab		"Use spaces instead of tabs
 set shiftwidth=2
 set tabstop=2
 
+set laststatus=2
+
 set backupdir=
 set directory=
 set nowritebackup
