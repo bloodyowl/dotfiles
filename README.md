@@ -3,5 +3,7 @@
 ### Install
 
 ```console
-$ sh ./scripts/install
+$ cd ~
+$ git clone git@github.com:bloodyowl/dotfiles.git
+$ sh ./scripts/install.sh
 ```
