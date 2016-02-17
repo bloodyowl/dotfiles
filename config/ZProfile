@@ -1,0 +1,2 @@
+source ~/dotfiles/functions/MakeDir.sh
+source ~/dotfiles/functions/OpenGitHub.sh

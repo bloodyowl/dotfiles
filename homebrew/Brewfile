@@ -1,0 +1,21 @@
+#!/bin/sh
+brew update
+brew upgrade
+
+brew install homebrew/dupes/grep
+brew install git
+brew install rhino
+brew install phantomjs
+brew install imagemagick --with-webp
+brew install flow
+brew install objective-caml
+
+brew cask install atom
+brew cask install google-chrome
+brew cask install firefox
+brew cask install discord
+brew cask install virtualbox
+brew cask install docker
+brew cask install docker-compose
+brew cask install dockertoolbox
+brew cask install github-desktop
